@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiavreliavg01zychgoog_0585.png"; bbox 0 0 1355 2653; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 102 244 920 490">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 102 244 920 490">
+     <span class='ocr_line' id='line_1_1' title="bbox 102 244 920 490; baseline 0 2163"><span class='ocrx_word' id='word_1_1' title='bbox 102 244 920 490; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 623 1324 678 1354">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 623 1324 678 1354">
+     <span class='ocr_line' id='line_1_2' title="bbox 623 1324 678 1354; baseline 0.036 -2"><span class='ocrx_word' id='word_1_2' title='bbox 623 1324 678 1354; x_wconf 73' lang='lat'>11.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 387 1407 907 1474">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 387 1407 907 1474">
+     <span class='ocr_line' id='line_1_3' title="bbox 387 1407 907 1474; baseline 0.008 -17"><span class='ocrx_word' id='word_1_3' title='bbox 387 1407 424 1457; x_wconf 83' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_4' title='bbox 466 1407 619 1459; x_wconf 77' lang='lat' dir='ltr'>Aureli</span> <span class='ocrx_word' id='word_1_5' title='bbox 658 1409 907 1474; x_wconf 75' lang='lat' dir='ltr'>Augustini</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 449 1521 856 1561">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 449 1521 856 1561">
+     <span class='ocr_line' id='line_1_4' title="bbox 449 1521 856 1561; baseline 0.005 -9"><span class='ocrx_word' id='word_1_6' title='bbox 449 1521 487 1552; x_wconf 83' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_7' title='bbox 511 1531 602 1561; x_wconf 77' lang='lat' dir='ltr'>opere</span> <span class='ocrx_word' id='word_1_8' title='bbox 624 1522 856 1554; x_wconf 82' lang='lat' dir='ltr'>monachorum.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
